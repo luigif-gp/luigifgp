@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luigifgp
-- 👀 I’m interested in coding and software
+- 👀 I’m interested in coding software
 - 🌱 I’m currently learning crypto
 - 💞️ I’m looking to collaborate in a good team to keep learning this new world on the web 3.0
 - 📫 How to reach me luigifgp@gmail.com
