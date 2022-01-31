@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luigifgp
 - 👀 I’m interested in coding software
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular ⭐ ⬆️
 - 📫 How to reach me luigifgp@gmail.com
 
 <!---
